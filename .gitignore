@@ -1,4 +1,5 @@
 *
+!/run.sh
 !/.gitignore
 !/*.php
 !/magento_dev_local.sql.gz
